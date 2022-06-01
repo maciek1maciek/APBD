@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Zadanie1": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Maqurix\\Desktop\\C#\\cwiczenia-2-pg-maciek1maciek\\Ćwiczenie2\\Zadanie1\\Zadanie1\\bin\\Debug\\net5.0\\dane.csv C:\\Users\\Maqurix\\Desktop\\C#\\cwiczenia-2-pg-maciek1maciek\\Ćwiczenie2\\Zadanie1\\Zadanie1\\bin\\Debug\\net5.0\\plik.json JSON"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Maqurix\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Maqurix\\.nuget\\packages"
+    ]
+  }
+}
