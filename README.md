@@ -1,2 +1,2 @@
-# APBD
-C# Houseworks 
+Visual studio 2022
+dot net 5.0
