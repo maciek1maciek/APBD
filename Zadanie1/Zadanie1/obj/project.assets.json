@@ -53,11 +53,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Maqurix\\Desktop\\C#\\cwiczenia-2-pg-maciek1maciek\\Ćwiczenie2\\Zadanie1\\Zadanie1\\Zadanie1.csproj",
+      "projectUniqueName": "C:\\Users\\Maqurix\\Desktop\\dodawnie do gita\\APBD\\Zadanie1\\Zadanie1\\Zadanie1.csproj",
       "projectName": "Zadanie1",
-      "projectPath": "C:\\Users\\Maqurix\\Desktop\\C#\\cwiczenia-2-pg-maciek1maciek\\Ćwiczenie2\\Zadanie1\\Zadanie1\\Zadanie1.csproj",
+      "projectPath": "C:\\Users\\Maqurix\\Desktop\\dodawnie do gita\\APBD\\Zadanie1\\Zadanie1\\Zadanie1.csproj",
       "packagesPath": "C:\\Users\\Maqurix\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Maqurix\\Desktop\\C#\\cwiczenia-2-pg-maciek1maciek\\Ćwiczenie2\\Zadanie1\\Zadanie1\\obj\\",
+      "outputPath": "C:\\Users\\Maqurix\\Desktop\\dodawnie do gita\\APBD\\Zadanie1\\Zadanie1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Maqurix\\AppData\\Roaming\\NuGet\\NuGet.Config",

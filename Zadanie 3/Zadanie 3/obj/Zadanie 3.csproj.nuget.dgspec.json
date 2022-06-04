@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Maqurix\\Desktop\\dodawnie do gita\\APBD\\Zadanie1\\Zadanie1\\Zadanie1.csproj": {}
+    "C:\\Users\\Maqurix\\Desktop\\C#\\cwiczenia-3---pgago-maciek1maciek\\Zadanie 3\\Zadanie 3\\Zadanie 3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Maqurix\\Desktop\\dodawnie do gita\\APBD\\Zadanie1\\Zadanie1\\Zadanie1.csproj": {
+    "C:\\Users\\Maqurix\\Desktop\\C#\\cwiczenia-3---pgago-maciek1maciek\\Zadanie 3\\Zadanie 3\\Zadanie 3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Maqurix\\Desktop\\dodawnie do gita\\APBD\\Zadanie1\\Zadanie1\\Zadanie1.csproj",
-        "projectName": "Zadanie1",
-        "projectPath": "C:\\Users\\Maqurix\\Desktop\\dodawnie do gita\\APBD\\Zadanie1\\Zadanie1\\Zadanie1.csproj",
+        "projectUniqueName": "C:\\Users\\Maqurix\\Desktop\\C#\\cwiczenia-3---pgago-maciek1maciek\\Zadanie 3\\Zadanie 3\\Zadanie 3.csproj",
+        "projectName": "Zadanie 3",
+        "projectPath": "C:\\Users\\Maqurix\\Desktop\\C#\\cwiczenia-3---pgago-maciek1maciek\\Zadanie 3\\Zadanie 3\\Zadanie 3.csproj",
         "packagesPath": "C:\\Users\\Maqurix\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Maqurix\\Desktop\\dodawnie do gita\\APBD\\Zadanie1\\Zadanie1\\obj\\",
+        "outputPath": "C:\\Users\\Maqurix\\Desktop\\C#\\cwiczenia-3---pgago-maciek1maciek\\Zadanie 3\\Zadanie 3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Maqurix\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,9 +40,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
-            "Newtonsoft.Json": {
+            "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[13.0.1, )"
+              "version": "[5.6.3, )"
             }
           },
           "imports": [
@@ -56,6 +56,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
